@@ -15,13 +15,11 @@ Aplikasi desktop sederhana berbasis JavaFX untuk mengelola data nilai siswa, len
 
 Klik link berikut untuk melihat video demo aplikasi:
 
-[▶️ Tonton Demo di Google Drive](https://drive.google.com/file/d/1gCXtel2OR-gS3tA59ySyvWvAoBKLTNbg?usp=drive_link)
-
-> Ganti `FILE_ID` dengan ID asli file video kamu dari Google Drive.
+[▶️ Tonton Demo di Google Drive](https://drive.google.com/file/d/1qVT6J9qoq-s1E71y0SCxf4xOtrqmb4bn/view?usp=drive_link)
 
 ## 🛠 Teknologi yang Digunakan
 
-- Java 17+
+- Java 23
 - JavaFX SDK 24
 - VS Code
 - File `.csv` sebagai penyimpanan data
