@@ -9,7 +9,7 @@ Aplikasi desktop sederhana berbasis JavaFX untuk mengelola data nilai siswa, len
 
 ## 📸 Tampilan Aplikasi
 
-![Screenshot](https://via.placeholder.com/800x400.png?text=Tampilan+Aplikasi+Nilai+Siswa)
+![Screenshot](https://drive.google.com/uc?export=view&id=1lqdCm7hwA-tLB8VInr-pE3X_Qx5ZlDmV)
 
 ## 🎥 Demo Video
 
