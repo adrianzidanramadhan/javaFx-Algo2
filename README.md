@@ -1,18 +1,40 @@
-## Getting Started
+# Aplikasi Nilai Siswa (JavaFX)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Aplikasi desktop sederhana berbasis JavaFX untuk mengelola data nilai siswa, lengkap dengan fitur:
+- Menambah data siswa
+- Menghitung rata-rata nilai
+- Mengurutkan siswa berdasarkan rata-rata
+- Mencari siswa dengan binary search
+- Menyimpan dan membaca data dari file `.csv`
 
-## Folder Structure
+## 📸 Tampilan Aplikasi
 
-The workspace contains two folders by default, where:
+![Screenshot](https://via.placeholder.com/800x400.png?text=Tampilan+Aplikasi+Nilai+Siswa)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🎥 Demo Video
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Klik link berikut untuk melihat video demo aplikasi:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+[▶️ Tonton Demo di Google Drive](https://drive.google.com/file/d/1gCXtel2OR-gS3tA59ySyvWvAoBKLTNbg?usp=drive_link)
 
-## Dependency Management
+> Ganti `FILE_ID` dengan ID asli file video kamu dari Google Drive.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🛠 Teknologi yang Digunakan
+
+- Java 17+
+- JavaFX SDK 24
+- VS Code
+- File `.csv` sebagai penyimpanan data
+
+## 📂 Struktur Folder
+
+```bash
+src/
+├── model/
+│   └── Siswa.java
+├── utils/
+│   ├── FileHandler.java
+│   └── SearchUtil.java
+├── MainApp.java
+README.md
+siswa.csv
