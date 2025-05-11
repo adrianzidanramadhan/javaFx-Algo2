@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Run JavaFX",
+        "request": "launch",
+        "mainClass": "MainApp",
+        "vmArgs": "--module-path \"C:/javafx-sdk-24/lib\" --add-modules javafx.controls,javafx.fxml",
+        // "cwd": "C:/Users/ThinkPad/Documents/UTS ALGO2/UTS Algo2"
+      }
+    ]
+  }
+  
